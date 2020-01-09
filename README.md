@@ -1,6 +1,9 @@
 # ansible_for_beginners			
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 Some of the useful ansible documentation links.		
 
 Ansible modules: https://docs.ansible.com/ansible/latest/user_guide/modules.html		
@@ -11,9 +14,12 @@ Write your 1st Ansible playbook : https://www.ansible.com/blog/getting-started-w
 
 Ansible basics: https://docs.ansible.com/ansible/latest/network/getting_started/basic_concepts.html		
 
+<<<<<<< Updated upstream
 
 ......
 
 # ansible_for_beginners
 
 changes me
+=======
+>>>>>>> Stashed changes
